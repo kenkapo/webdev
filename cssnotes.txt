@@ -1,0 +1,8 @@
+There are 3 types of css->
+1.Inline ->targets single element
+2.Internal ->targets single webpage
+3.External ->targets a website
+
+Types of selectors->
+1.Element selector
+2.Class selector
