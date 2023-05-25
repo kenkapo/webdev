@@ -10,4 +10,4 @@ Types of selectors->
 
 difference between class and id selector->While an ID is specific to a single element, classes can be assigned to multiple elements on a page or throughout the website.
 4.Attribute selector
-5.Univerasl selector
+5.Universal selector
