@@ -11,3 +11,10 @@ Types of selectors->
 difference between class and id selector->While an ID is specific to a single element, classes can be assigned to multiple elements on a page or throughout the website.
 4.Attribute selector
 5.Universal selector
+
+
+CSS cascading:
+1.Position->the lower in the file,the better.
+2.Specificity-> id > attribute > class > element selector
+3.Type-> inline > internal > external
+4.Importance-> usage of !important
