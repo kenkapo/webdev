@@ -6,3 +6,8 @@ There are 3 types of css->
 Types of selectors->
 1.Element selector
 2.Class selector
+3.Id selector
+
+difference between class and id selector->While an ID is specific to a single element, classes can be assigned to multiple elements on a page or throughout the website.
+4.Attribute selector
+5.Univerasl selector
