@@ -14,6 +14,7 @@ difference between class and id selector->While an ID is specific to a single el
 
 
 CSS cascading:
+THE CSS CASCADING PRIORITY IN INCREASING ORDER->
 1.Position->the lower in the file,the better.
 2.Specificity-> id > attribute > class > element selector
 3.Type-> inline > internal > external
