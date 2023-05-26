@@ -1,0 +1,6 @@
+	So types to combine selectors are:
+	1. Group selectors-> selector1, selector2(it selects both the selectors and apply changes to both of them).
+	2. Child slectors-> parent > child (make changes in the child.The child must be direct descendant of parent.)
+	3. Descendant selectors-> selector1 space selector2 (selector2 can be any descendant of slector1.)
+	4. Chaining selectors-> selectorselector(remember to not put spaces. Applied where all selectors are true.Always choose the element selector first.It selects the specific element.)
+	5. We can also combine these different types of selectors eg. selector selectorselector
