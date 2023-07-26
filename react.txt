@@ -1,0 +1,1 @@
+1. key property is a special property. We cannot hold this prop. If we want the value of this prop, then we will have to make another prop with the same value.
