@@ -36,3 +36,6 @@ eg:nn=n.findIndex(function(x)
                 return x>3;
             });
 console.log(nn);// 3->index of 4
+
+
+//we can create a hook inside a functional component only i.e. a function that renders a component.
